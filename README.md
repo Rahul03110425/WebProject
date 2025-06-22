@@ -1,2 +1,2 @@
-# WebProject
+# WebApplication
 Hotel reservation 
